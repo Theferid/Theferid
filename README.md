@@ -65,15 +65,7 @@
 
 # Github Stats
 
- <br />
  
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/Theferid/Theferid/blob/main/img/Bird%20Wing%20Left.png">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Theferid&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Theferid" />
-    <img heigth="160" width="182" src="https://github.com/Theferid/Theferid/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
 
   
 <br />
@@ -87,37 +79,6 @@
     <img heigth="160" width="182" src="https://github.com/Theferid/Theferid/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
- 
-
- 
- <br />
- 
-  
-  
-  <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/Theferid/Theferid/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theferid&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Theferid" />
-    <img heigth="160" width="182" src="https://github.com/Theferid/Theferid/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
-  </a>
-</p>
- 
-  
-  
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theferid&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/Theferid/github-readme-stats)
--->
-
-
-<br />
-
-![](https://github-profile-trophy.vercel.app/?username=Theferid&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br />
-
-
-<br />
 
 
 <!--
@@ -133,7 +94,7 @@
 <h1 align="center">Hi 👋, I'm Theferid</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theferid" alt="theferid" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
