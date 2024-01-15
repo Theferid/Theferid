@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Theferid/Theferid/blob/main/img/Github%20Banner.jpg)
+![The_ferid](https://github.com/Theferid/Theferid/blob/main/img/Github%20Banner.jpg)
 ![](https://komarev.com/ghpvc/?username=Theferid&color=blue)
 <div align="center">
  <a href="https://github.com/Theferid">
