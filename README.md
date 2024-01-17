@@ -20,6 +20,14 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Theferid?theme=unicorn)](https://leetcode.com/Theferid/)
 
 <h3 align="left">Connect with me:</h3>
+<p><h3><strong>Telegram</strong></h3>
+<a href="https://t.me/The_ferid"><img src="https://img.shields.io/badge/Telegram%20%20-black?style=for-the-badge&logo=telegram"></a>
+</p> 
+<p><h3><strong>İnstagram</strong></h3>
+<a href="https://instagram.com/the.abusov"><img src="https://img.shields.io/badge/İnstagram%20%20-black?style=for-the-badge&logo=instagram"></a>
+</p>
+
+
 <p align="left">
  <a href="https://t.me/The_ferid" target="blank"><img aling="center"
  <a href="https://www.instagram.com/the.abusov?igsh=MWMyNDkzOGJnN2h1Yg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="The_ferid" height="30" width="40" /></a>
