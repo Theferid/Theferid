@@ -18,27 +18,6 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Theferid?theme=unicorn)](https://leetcode.com/Theferid/)
 
-<p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/Theferid/Theferid/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Theferid&theme=material-palenight&hide_border=false" alt="Theferid" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/Theferid/Theferid/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
-
-<!--
-</details>
--->
-
-<!--
-<details>
-   <summary>:zap: Languages and Tools</summary>
- -->
- 
-
-<h1 align="center">Hi 👋, I'm Theferid</h1>
-
 <p><h3><strong>Telegram</strong></h3>
 <a href="https://t.me/The_ferid"><img src="https://img.shields.io/badge/Telegram%20%20-black?style=for-the-badge&logo=telegram"></a>
 </p> 
