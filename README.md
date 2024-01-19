@@ -25,6 +25,9 @@
 <a href="https://instagram.com/the.abusov"><img src="https://img.shields.io/badge/İnstagram%20%20-black?style=for-the-badge&logo=instagram"></a>
 </p>
 
+<p><h3><strong>Tiktok</strong></h3>
+<a href="https://tiktok.com/the.abusov"><img src="https://img.shields.io/badge/Tiktok%20%20-black?style=for-the-badge&logo=tiktok"></a>
+</p>
 
 
 
