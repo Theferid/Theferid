@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Theferid&color=blue)
-<div align="center">
+
  <a href="https://github.com/Theferid">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+The+ferid+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
@@ -8,14 +8,9 @@
 <img src="https://github.com/Theferid/Theferid/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Azerbaijan</h3>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)   
 
-- 🔭 I’m currently working on **React**
-
-- 💬 Ask me about **Blockchain**
-
-- 📫 How to reach me **fridabisov26@gmail.com**
-       
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary> 
@@ -46,22 +41,13 @@
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 <picture>
+
+# 🌐 Socials:
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/The_ferid)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.abusov) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@the.abusov)
+
   
 <div align="center">
         <img width="310" src="https://github-stats-alpha.vercel.app/api/?username=Theferid&cc=000&tc=00ff00&ic=fff000&bc=fff"/>
         <img width="300" src="https://github-readme-stats.vercel.app/api?username=Theferid&&show_icons=true&theme=midnight-purple"/>
 </div>  
-<h1 align="center">İstifadə olunan dillər</h1>
-<div align="center">
-<img align="center" width="300" height="99" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&layout=compact&theme=tokyonight"/>
-</div>
 
-<p><h3><strong></strong></h3>
-<a href="https://t.me/The_ferid"><img src="https://img.shields.io/badge/Telegram%20%20-black?style=for-the-badge&logo=telegram"></a>
-</p> 
-<p><h3><strong></strong></h3>
-<a href="https://instagram.com/the.abusov"><img src="https://img.shields.io/badge/İnstagram%20%20-black?style=for-the-badge&logo=instagram"></a>
-</p>
-<p><h3><strong></strong></h3>
-<a href="https://tiktok.com/the.abusov"><img src="https://img.shields.io/badge/Tiktok%20%20-black?style=for-the-badge&logo=tiktok"></a>
-</p>
