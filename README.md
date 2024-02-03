@@ -15,24 +15,7 @@
 - 💬 Ask me about **Blockchain**
 
 - 📫 How to reach me **fridabisov26@gmail.com**
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Theferid?theme=unicorn)](https://leetcode.com/Theferid/)
-
-<p><h3><strong>Telegram</strong></h3>
-<a href="https://t.me/The_ferid"><img src="https://img.shields.io/badge/Telegram%20%20-black?style=for-the-badge&logo=telegram"></a>
-</p> 
-<p><h3><strong>İnstagram</strong></h3>
-<a href="https://instagram.com/the.abusov"><img src="https://img.shields.io/badge/İnstagram%20%20-black?style=for-the-badge&logo=instagram"></a>
-</p>
-
-<p><h3><strong>Tiktok</strong></h3>
-<a href="https://tiktok.com/the.abusov"><img src="https://img.shields.io/badge/Tiktok%20%20-black?style=for-the-badge&logo=tiktok"></a>
-</p>
-
-
-
-
-
+       
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary> 
@@ -64,6 +47,21 @@
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
 <picture>
   
+<div align="center">
+        <img width="310" src="https://github-stats-alpha.vercel.app/api/?username=Theferid&cc=000&tc=00ff00&ic=fff000&bc=fff"/>
+        <img width="300" src="https://github-readme-stats.vercel.app/api?username=Theferid&&show_icons=true&theme=midnight-purple"/>
+</div>  
+<h1 align="center">İstifadə olunan dillər</h1>
+<div align="center">
+<img align="center" width="300" height="99" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&layout=compact&theme=tokyonight"/>
+</div>
 
-
-
+<p><h3><strong></strong></h3>
+<a href="https://t.me/The_ferid"><img src="https://img.shields.io/badge/Telegram%20%20-black?style=for-the-badge&logo=telegram"></a>
+</p> 
+<p><h3><strong></strong></h3>
+<a href="https://instagram.com/the.abusov"><img src="https://img.shields.io/badge/İnstagram%20%20-black?style=for-the-badge&logo=instagram"></a>
+</p>
+<p><h3><strong></strong></h3>
+<a href="https://tiktok.com/the.abusov"><img src="https://img.shields.io/badge/Tiktok%20%20-black?style=for-the-badge&logo=tiktok"></a>
+</p>
