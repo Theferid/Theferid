@@ -45,9 +45,11 @@
 # 🌐 Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/The_ferid)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.abusov) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@the.abusov)
 
-  
-<div align="center">
-        <img width="310" src="https://github-stats-alpha.vercel.app/api/?username=Theferid&cc=000&tc=00ff00&ic=fff000&bc=fff"/>
-        <img width="300" src="https://github-readme-stats.vercel.app/api?username=Theferid&&show_icons=true&theme=midnight-purple"/>
-</div>  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Theferid&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Theferid&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=offlineflood&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
